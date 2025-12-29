@@ -1,0 +1,5 @@
+{
+  "name": "TrackItNow",
+  "description": "A smart vehicle tracking system website featuring real-time GPS tracking monitoring, anti-theft alerts, and fleet management solutions.",
+  "requestFramePermissions": []
+}
